@@ -116,7 +116,7 @@ form.addEventListener('submit', (event) => {
                     </div>
 
                     <div class="flex flex-col justify-center w-full h-full px-4 py-3" gap-2>
-                        <h2 class="flex-1 text-zinc-300 w-full">${data[item].commit.message}</h2>
+                        <h2 class="flex-1 text-sm md:text-base text-zinc-300 w-full">${data[item].commit.message}</h2>
                         <span class="text-xs text-zinc-400 mt-auto">${data[item].commit.author.name} - ${data[item].commit.author.email}</span>
                     </div>
                 `);
