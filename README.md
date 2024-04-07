@@ -3,7 +3,7 @@
 ![Screenshot do projeto](./assets/cover.gif "Screenshot do projeto")
 
 #### Daploy
-> https://elc1090.github.io/project2a-2024a-wederson/
+> https://github-api-wederson.netlify.app
 
 #### Desenvolvedor
 Wederson Machado Fagundes
